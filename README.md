@@ -1,4 +1,4 @@
-# Emotion Detection Chatbot
+#AI Sentiment & Emotion Analyzer Chatbot
 
 ## Project Overview
 The **Emotion Detection Chatbot** is an AI-powered application that classifies emotions from user input in real-time. The system utilizes a pre-trained transformer model (DistilRoBERTa) for natural language processing (NLP) and emotion analysis. It helps businesses, healthcare providers, and other organizations understand user sentiments by detecting emotions such as joy, anger, sadness, surprise, and more.
